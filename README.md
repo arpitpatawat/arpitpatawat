@@ -1,6 +1,9 @@
-<!-- <img src="https://i.imgur.com/Z62RDgY.png" alt="imag1" style="width:26%; margin:50px;" align="left"> -->
+<!-- <img src="https://i.imgur.com/Z62RDgY.png" alt="imag1" style="width:26%; margin:50px;" align="left" > -->
+<!-- <a href="#"><img width="1280" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/123224.gif" height="175px"/></a> -->
 
-
+<!-- <br>
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br> -->
 
 # Heyy! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm Arpit Patawat!
 
@@ -30,10 +33,6 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 <br/>
 <br/>
 
-<br/>
-<br/>
-<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="400px" height="250px"/>
-
 
 ## 😀 Talking about Personal Stuffs
 
@@ -43,8 +42,7 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 - 💬 Ask Me About Anything, I Am Happy To **Help**;
 - 📫 How To Reach Me: arpitpatawat200@gmail.com;
 
-<br>
-<br> -->
+
 
 ## ⚙️ Languages and Tools  
 <a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://cdn.worldvectorlogo.com/logos/java.svg"></a>
