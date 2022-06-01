@@ -4,23 +4,23 @@
 
 <!-- (https://harshit7962.github.io/shaandaar_harshit/)  -->
 <a href="https://www.linkedin.com/in/arpitpatawat/" target="_blank">
-  <img align="left" alt="Arpit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Arpit's LinkdeIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/arpit.patawat/" target="_blank">
-  <img align="left" alt="Arpit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Arpit's Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="https://twitter.com/arpitpatawat" target="_blank">
-  <img align="left" alt="Harshit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Arpit's Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="mailto:arpitpatawat200@gmail.com" target="_blank">
-  <img align="left" alt="Mail Harshit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="left" alt="Mail Arpit" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
 <a href="https://leetcode.com/arpitpatawat200/" target="_blank">
-  <img align="left" alt="Harshit's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+  <img align="left" alt="Arpit's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
-<a href="https://www.arpitpatawat.me/" target="_blank">
-  <img align="left" alt="Harshit's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
-</a>
+<!-- <a href="https://www.arpitpatawat.me/" target="_blank">
+  <img align="left" alt="Arpit's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
+</a> -->
 <br>
 <br>
 
@@ -62,11 +62,13 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 <br>
 <br>
 
-## 📈 GitHub Stats
+## 📈 My Stats
 <p align="center">
     <a href="https://github.com/arpitpatawat/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpatawat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+  
+<img src="https://leetcard.jacoblin.cool/arpitpatawat?theme=nord&font=Adamina" >
 </p>
 
 <p align="center">
@@ -74,7 +76,8 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://activity-graph.herokuapp.com/graph?username=arpitpatawat&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true/">
     
 </p>
-                                                                                                                 
+  
+  
 <!-- ![Daily Activity](https://activity-graph.herokuapp.com/graph?username=arpitpatawat&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true) 
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpitpatawat&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
@@ -86,16 +89,16 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://github-readme-stats.vercel.app/api?username=arpitpatawat&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatawat&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
-</p>
+
 
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)
 
 ## Enjoy my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/arpitpatawat/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/arpitpatawat/arpitpatawat/blob/output/github-contribution-grid-snake.gif)
 
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ## 👀 Visitors count
 <img src="https://profile-counter.glitch.me/arpitpatawat/count.svg" />
