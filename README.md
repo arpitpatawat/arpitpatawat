@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/Z62RDgY.png" alt="imag1" style="width:26%; margin:50px;" align="left">
 
 
+
 # Heyy! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm Arpit Patawat!
 
 <!-- (https://harshit7962.github.io/shaandaar_harshit/)  -->
@@ -17,7 +18,7 @@
   <img align="left" alt="Mail Arpit" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
 <a href="https://leetcode.com/arpitpatawat200/" target="_blank">
-  <img align="left" alt="Arpit's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+  <img align="left" alt="Arpit's Leetcode" width="44px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
 </a>
 <!-- <a href="https://www.arpitpatawat.me/" target="_blank">
   <img align="left" alt="Arpit's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
@@ -46,18 +47,22 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 <br> -->
 
 ## ⚙️ Languages and Tools  
-<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></a>
 <a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://cdn.worldvectorlogo.com/logos/java.svg"></a>
-<a href="https://jupyter.org/" target="_blank"><img align="left" alt="Jupyter" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"></a>
-<a href="https://colab.research.google.com/" target="_blank"><img align="left" alt="Colab" height ="42px" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img align="left" alt="TensorFlow" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></a>
-<a href="https://keras.io/" target="_blank"><img align="left" alt="Keras" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png"></a>
-<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"><img align="left" alt="Flask" height ="42px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> </a>
+<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg"> </a>
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="VSCode" height ="42px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/dart-programming-language.png"></a>
+<a href="https://www.arduino.cc/" target="_blank"><img align ="left" alt="Arduino" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"></a>
+<a href="https://reactjs.org/" target="_blank"><img align ="left" alt="Arduino" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
+
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height ="42px" src="https://www.pngkit.com/png/detail/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSCode" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> </a>
-<a href="https://www.spyder-ide.org/" target="_blank"> <img align="left" alt="Spyder" height ="42px" src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png"></a>
+
+
+
+
 
 <br>
 <br>
