@@ -3,7 +3,7 @@
 # Heyy! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm Arpit Patawat!
 
 <!-- (https://harshit7962.github.io/shaandaar_harshit/)  -->
-<a href="https://www.linkedin.com/in/arpit-patawat-01/" target="_blank">
+<a href="https://www.linkedin.com/in/arpitpatawat/" target="_blank">
   <img align="left" alt="Arpit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/arpit.patawat/" target="_blank">
@@ -30,7 +30,7 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 
 <br/>
 <br/>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="400px" height="250px"/>
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif" width="400px" height="250px"/>
 
 
 ## 😀 Talking about Personal Stuffs
@@ -42,7 +42,7 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 - 📫 How To Reach Me: arpitpatawat200@gmail.com;
 
 <br>
-<br>
+<br> -->
 
 ## ⚙️ Languages and Tools  
 <a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></a>
@@ -63,13 +63,39 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 <br>
 
 ## 📈 GitHub Stats
-![Daily Activity](https://activity-graph.herokuapp.com/graph?username=arpitpatawat&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true)
+<p align="center">
+    <a href="https://github.com/arpitpatawat/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpatawat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+<p align="center">
+<!--     <a href="https://github.com/arpitpatawat/github-readme-streak-stats"> -->
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://activity-graph.herokuapp.com/graph?username=arpitpatawat&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true/">
+    
+</p>
+                                                                                                                 
+<!-- ![Daily Activity](https://activity-graph.herokuapp.com/graph?username=arpitpatawat&bg_color=000000&color=fff&line=0194dd&point=5194f0&area=true) 
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpitpatawat&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitpatawat&theme=dark)](https://git.io/streak-stats)
 
 ![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatawat&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
+-->
+
+<p align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://github-readme-stats.vercel.app/api?username=arpitpatawat&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatawat&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+</p>
+
+
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)
+
+## Enjoy my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/arpitpatawat/blob/output/github-contribution-grid-snake.gif)
+
+
 
 ## 👀 Visitors count
 <img src="https://profile-counter.glitch.me/arpitpatawat/count.svg" />
