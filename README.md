@@ -95,7 +95,7 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)
 
-## Enjoy my contribution graph get eaten by the snake 🐍
+## Enjoy my contribution graph getting eaten by the snake 🐍
 ![snake gif](https://github.com/arpitpatawat/arpitpatawat/blob/output/github-contribution-grid-snake.gif)
 
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
