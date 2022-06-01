@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Z62RDgY.png" alt="imag1" style="width:26%; margin:50px;" align="left">
+<!-- <img src="https://i.imgur.com/Z62RDgY.png" alt="imag1" style="width:26%; margin:50px;" align="left"> -->
 
 
 
