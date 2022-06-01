@@ -24,10 +24,10 @@
   <img align="left" alt="Arpit's Leetcode" width="44px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
 </a>
 <!-- <a href="https://www.arpitpatawat.me/" target="_blank">
-  <img align="left" alt="Arpit's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
+  <img align="left" alt="Arpit's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />\
 </a> -->
 <br>
-<br>
+<br/>
 
 Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Developer (Flutter) from India. I am an IoT enthusiast and specialize in Embedded Systems. Currently, I'm a Core Committee Member At IEI-VIT, (Technical Team Member). I Am A Student Completing My B.Tech(2019-23) Graduation in ECE from VIT. Besides Programming, I Enjoy Food And Gaming.
 <br/>
