@@ -2,7 +2,7 @@
 
 
 
-# Heyy! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm Arpit Patawat!
+# Heyy! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm Arpit Patawat!
 
 <!-- (https://harshit7962.github.io/shaandaar_harshit/)  -->
 <a href="https://www.linkedin.com/in/arpitpatawat/" target="_blank">
