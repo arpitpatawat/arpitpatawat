@@ -20,7 +20,7 @@
 <a href="mailto:arpitpatawat200@gmail.com" target="_blank">
   <img align="left" alt="Mail Arpit" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
-<a href="https://leetcode.com/arpitpatawat200/" target="_blank">
+<a href="https://leetcode.com/arpitpatawat/" target="_blank">
   <img align="left" alt="Arpit's Leetcode" width="44px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
 </a>
 <!-- <a href="https://www.arpitpatawat.me/" target="_blank">
