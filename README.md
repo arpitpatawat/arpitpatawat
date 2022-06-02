@@ -37,11 +37,11 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 
 ## 😀 Talking about Personal Stuffs
 
-- 👨🏽‍💻 Looking For **Internships**;
-- 🌱 I’m Currently Working On **DSA**; 
-- 👯 Open For **Collaboration**;
-- 💬 Ask Me About Anything Related to my projects, I Am Happy To **Help**;
-- 📫 How To Reach Me: arpitpatawat200@gmail.com;
+- 👨🏽‍💻 Looking For **Internships**
+- 🌱 I’m Currently Working On **DSA** 
+- 👯 Open For **Collaboration**
+- 💬 Ask Me About Anything Related to my projects, I Am Happy To **Help**
+- 📫 How To Reach Me: arpitpatawat200@gmail.com
 
 
 
