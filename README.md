@@ -30,7 +30,7 @@
 <br/>
 <br>
 
-Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Developer (Flutter) from India. I am an IoT enthusiast and specialize in Embedded Systems. Currently, I'm a Core Committee Member At IEI-VIT, (Technical Team Member). I Am A Student Completing My B.Tech(2019-23) Graduation in ECE from VIT. Besides Programming, I Enjoy Food And Gaming.
+Hi, I am Arpit Patawat, a front end web developer, and Front end Android Developer (Flutter) from India. I am an IoT enthusiast and specialize in Embedded Systems. Currently, I'm a Core Committee Member At IEI-VIT, (Technical Team Member). I Am A Student Completing My B.Tech(2019-23) Graduation in ECE from VIT. Besides Programming, I Enjoy Food And Gaming.
 <br/>
 <br/>
 
