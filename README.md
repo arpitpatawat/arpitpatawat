@@ -111,6 +111,6 @@ Hi, I am Arpit Patawat, a front end web developer, and Front end Android Develop
   
 <br>
 <div align="center">
- 👩‍🚀 🚀 Thank You for giving the time 😄 to view my GitHub  Profile. Do Give A Look To My <a href="https://github.com/arpitpatawat?tab=repositories" target="_blank">Repositories</a> And ⭐ It 👩‍🚀 🚀 .
+ 👩‍🚀 🚀 Thank You for giving your time 😄 to view my GitHub  Profile. Do Give A Look To My <a href="https://github.com/arpitpatawat?tab=repositories" target="_blank">Repositories</a> And ⭐ It 👩‍🚀 🚀 .
 </div>
 <!-- <p align="center"> </p> -->
