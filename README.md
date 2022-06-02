@@ -110,5 +110,7 @@ Hi, I am Arpit Patawat, a Full-stack web developer, and Front end Android Develo
 <img src="https://profile-counter.glitch.me/arpitpatawat/count.svg" />
   
 <br>
-
-<p align="center">Do Give A Look To My <a href="https://github.com/arpitpatawat?tab=repositories" target="_blank">Repositories</a> And ⭐ It </p>
+<div align="center">
+ 👩‍🚀 🚀 Thank You for giving the time 😄 to view my GitHub  Profile. Do Give A Look To My <a href="https://github.com/arpitpatawat?tab=repositories" target="_blank">Repositories</a> And ⭐ It 👩‍🚀 🚀 .
+</div>
+<!-- <p align="center"> </p> -->
