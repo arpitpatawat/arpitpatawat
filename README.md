@@ -70,12 +70,23 @@ Hi, I am Arpit Patawat, a front end web developer, and Front end Android Develop
 ## 📈 My Stats
 
 <p align="center">
+<!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://github-readme-stats.vercel.app/api?username=arpitpatawat&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatawat&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitpatawat&theme=nord_dark"> -->
+  </p>
+  
+<p float="left">
+  <img src="https://leetcard.jacoblin.cool/arpitpatawat?theme=nord&font=Adamina" width="418" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpatawat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="419" />
+</p>
+
+<!-- <p align="center">
     <a href="https://github.com/arpitpatawat/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpatawat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   
 <img src="https://leetcard.jacoblin.cool/arpitpatawat?theme=nord&font=Adamina" >
-</p>
+</p> -->
 
 <p align="center">
 <!--     <a href="https://github.com/arpitpatawat/github-readme-streak-stats"> -->
@@ -92,11 +103,7 @@ Hi, I am Arpit Patawat, a front end web developer, and Front end Android Develop
 ![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatawat&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 -->
 
-<p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://github-readme-stats.vercel.app/api?username=arpitpatawat&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatawat&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitpatawat&theme=nord_dark">
-  </p>
+
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)](https://github-profile-trophy.vercel.app/?username=arpitpatawat&column=8)
