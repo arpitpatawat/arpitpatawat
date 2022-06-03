@@ -69,7 +69,7 @@ Hi, I am Arpit Patawat, a front end web developer, and Front end Android Develop
 
 ## 📈 My Stats
 
-<p align="center">
+<p float="left">
 <!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arpit Patawat streak" src="https://github-readme-stats.vercel.app/api?username=arpitpatawat&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatawat&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitpatawat&theme=nord_dark"> -->
