@@ -20,9 +20,10 @@
 <a href="mailto:arpitpatawat200@gmail.com" target="_blank">
   <img align="left" alt="Mail Arpit" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
-<a href="https://leetcode.com/arpitpatawat/" target="_blank">
+<!-- ------------------------------------------------------------------------------comment --------------------------------
+<!-- <a href="https://leetcode.com/arpitpatawat/" target="_blank">
   <img align="left" alt="Arpit's Leetcode" width="44px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
-</a>
+</a> -->
 <!-- <a href="https://www.arpitpatawat.me/" target="_blank">
   <img align="left" alt="Arpit's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />\
 </a> -->
@@ -74,9 +75,10 @@ Hi, I am Arpit Patawat, a front end web developer, and Front end Android Develop
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpatawat&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitpatawat&theme=nord_dark"> -->
   </p>
-  
+
+<!-- ------------------------------------------------------------------------------comment --------------------------------
 <p float="left">
-  <img src="https://leetcard.jacoblin.cool/arpitpatawat?theme=nord&font=Adamina" width="418" />
+  <img src="https://leetcard.jacoblin.cool/arpitpatawat?theme=nord&font=Adamina" width="418" /> --> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpatawat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="419" />
 </p>
 
