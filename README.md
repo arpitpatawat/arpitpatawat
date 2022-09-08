@@ -52,8 +52,8 @@ Hi, I am Arpit Patawat, a front end web developer, and Front end Android Develop
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> </a>
-<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg"> </a>
-<a href="https://dart.dev/" target="_blank"><img align="left" alt="VSCode" height ="42px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/dart-programming-language.png"></a>
+<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="flutter" height ="42px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"> </a>
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="dart" height ="42px" src="https://play-lh.googleusercontent.com/qbeCduZblOk80GaY164lw47gIRjXq9QIzSmgFwqQj1PyhNhTWxYR0OqPzm8BumnmJQ"></a>
 <a href="https://www.arduino.cc/" target="_blank"><img align ="left" alt="Arduino" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"></a>
 <a href="https://reactjs.org/" target="_blank"><img align ="left" alt="Arduino" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 
