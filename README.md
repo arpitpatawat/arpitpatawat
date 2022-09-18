@@ -38,7 +38,7 @@ Hi, I am Arpit Patawat, a front end web developer, and Front end Android Develop
 
 ## 😀 Talking about Personal Stuffs
 
-- 👨🏽‍💻 Looking For **Internships**
+- 👨🏽‍💻 Looking For **Full time SDE role**
 - 🌱 I’m Currently Working On **DSA** 
 - 👯 Open For **Collaboration**
 - 💬 Ask Me About Anything Related to my projects, I Am Happy To **Help**
