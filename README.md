@@ -10,9 +10,9 @@
 <a href="https://www.linkedin.com/in/arpitpatawat/" target="_blank">
   <img align="left" alt="Arpit's LinkdeIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/arpit.patawat/" target="_blank">
+<!-- <a href="https://www.instagram.com/arpit.patawat/" target="_blank">
   <img align="left" alt="Arpit's Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a>
+</a> -->
 <a href="https://twitter.com/arpitpatawat" target="_blank">
   <img align="left" alt="Arpit's Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
